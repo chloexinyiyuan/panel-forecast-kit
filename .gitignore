@@ -8,3 +8,5 @@ outputs/
 data/processed/
 
 data/raw/
+
+catboost_info/
