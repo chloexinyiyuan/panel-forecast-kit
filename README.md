@@ -26,12 +26,14 @@ daily sales, 2013–2017).
 ---
 
 ## Project Structure
+```
 notebooks/
-├── 01_Preview.ipynb # Data loading & overview
-├── 02_EDA.ipynb # Exploratory analysis & business insights
-├── 03_features.ipynb # Feature engineering (calendar, lag, rolling)
-├── 04_models.ipynb # Model training & comparison
-└── 05_benchmark.ipynb # Rolling-window CV & error analysis
+├── 01_Preview.ipynb      # Data loading & overview
+├── 02_EDA.ipynb          # Exploratory analysis & business insights
+├── 03_features.ipynb     # Feature engineering (calendar, lag, rolling)
+├── 04_models.ipynb       # Model training & comparison
+└── 05_benchmark.ipynb    # Rolling-window CV & error analysis
+```
 
 
 ---
