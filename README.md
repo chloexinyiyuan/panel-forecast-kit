@@ -87,8 +87,6 @@ pip install -r requirements.txt
   rolling daily forecasts). Long-horizon forecasting (e.g. a full quarter, as in
   the Kaggle 2018 test set) is a harder B-scenario where recent lags are
   unavailable and the model must lean on yearly seasonality (lag_364).
-- **Kaggle submission** (2018 Q1, B-scenario) is planned as a follow-up ⟨add
-  Kaggle link once submitted⟩.
 - External signals (promotions, weather, holidays) could add information
   independent of sales history.
 
