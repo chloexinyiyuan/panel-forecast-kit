@@ -93,5 +93,4 @@ pip install -r requirements.txt
 ---
 
 ## Links
-- GitHub: https://github.com/你的用户名/panel-forcast-kit
-#- Kaggle submission: ⟨to be added⟩
+- GitHub: https://github.com/chloexinyiyuan/panel-forecast-kit
