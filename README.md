@@ -10,7 +10,7 @@ daily sales, 2013–2017).
 ---
 
 ## Key Results
-
+![XGBoost WAPE across rolling CV windows](assets/cv_wape.png)
 - **XGBoost (Poisson objective) achieves WAPE 11.95%** (MAE 6.32, RMSE 8.24),
   evaluated with **4-fold rolling time-series cross-validation**.
 - **~25% lower WAPE than the best naive baseline** (7-day moving average, 15.93%;
@@ -94,3 +94,4 @@ pip install -r requirements.txt
 
 ## Links
 - GitHub: https://github.com/chloexinyiyuan/panel-forecast-kit
+- Dataset: [Kaggle — Store Item Demand Forecasting Challenge](https://www.kaggle.com/c/demand-forecasting-kernels-only)
