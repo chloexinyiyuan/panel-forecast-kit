@@ -6,7 +6,7 @@ __pycache__/
 
 outputs/
 data/processed/
-
 data/raw/
+data/submission.csv
 
 catboost_info/data/submission.csv
