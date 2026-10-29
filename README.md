@@ -201,5 +201,5 @@ Scenario B results were produced with XGBoost 3.4.1 on Kaggle; local runs used
 
 ## Links
 - GitHub: https://github.com/chloexinyiyuan/panel-forecast-kit
-- Kaggle Sumission: https://www.kaggle.com/code/xinyiyuan018/long-term-forcasting-lag364-c28-smoothing
+- Kaggle: https://www.kaggle.com/code/xinyiyuan018/long-term-forcasting-lag364-c28-smoothing
 - Dataset: [Kaggle — Store Item Demand Forecasting Challenge](https://www.kaggle.com/c/demand-forecasting-kernels-only)
