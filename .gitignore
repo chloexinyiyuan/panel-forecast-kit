@@ -9,4 +9,4 @@ data/processed/
 
 data/raw/
 
-catboost_info/
+catboost_info/data/submission.csv
